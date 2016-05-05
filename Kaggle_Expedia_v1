@@ -1,0 +1,7 @@
+
+# library(readr)
+
+train <- read_csv('../input/train.csv')
+test <- read_csv('../input/test.csv')
+# dests <- read_csv('../input/destinations.csv')
+# ss <- read_csv('../input/sample_submission.csv')
